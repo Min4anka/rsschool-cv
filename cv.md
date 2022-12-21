@@ -1,16 +1,22 @@
 # Katsiaryna Paliakova
-## UX/UI Designer, WordPress developer, Frontend Developer
+### UX/UI Designer, WordPress developer, Frontend Developer
 *****
 ## Contact information
 **Location:** Poland, Warsawa
+
 **Phone:** +48 786 307 557
+
 **E-mail:** design_min4anka@gamil.com
+
 **Telegram:** [@min4anka](https://t.me/min4anka)
+
 **GitHub:** [Min4anka](https://github.com/Min4anka)
 *****
 ## About Me
 Friendly, active, easily find contact with people, stress-resistant, can work in multitasking mode, punctual and accurate. 
+
 Open to new acquaintances and interesting projects.
+
 Also very willing to learn and develop new skills.
 *****
 ## Skills
